@@ -11,8 +11,8 @@
 	<groupId>com.cognizant</groupId>
 	<artifactId>Spring-learn</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Spring_rest_handson_1</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Spring_rest_handson_2</name>
+	<description>Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
